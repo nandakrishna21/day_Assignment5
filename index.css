@@ -1,0 +1,50 @@
+#leon {
+    background-image: url(https://analyticsindiamag.com/wp-content/uploads/2020/01/top-10-DS-projects.png);
+}
+
+#main {
+    height: 60px;
+}
+
+.head {
+    color: wheat;
+    font-family: cursive;
+    background-color: rgba(211, 222, 231, 0.575);
+    width: 40%;
+    float: left;
+    text-align: left;
+    height: 70px;
+}
+
+.info {
+    text-align: center;
+    color: lightgoldenrodyellow;
+    width: 60%;
+    float: right;
+    line-height: 70px;
+    height: 70px;
+    background-color: rgba(20, 155, 233, 0.575);
+}
+
+#n {
+    background-color: rgb(17, 233, 82);
+    display: inline-block;
+    margin-top: 100px;
+    margin-left: 30px;
+    padding-right: 10px;
+
+}
+
+.class {
+    text-align: center;
+}
+
+#k {
+    background-color: floralwhite;
+    font-family: cursive;
+}
+
+.last {
+    float:bottom;
+    color: rgba(255, 255, 255, 0.904);
+}
